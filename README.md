@@ -12,11 +12,11 @@ O código principal está na função `dataset_analysis()` que realiza as seguin
 
 - 1. Carregamento de Dados: Carrega um dataset a partir de uma URL (arquivo CSV);
 - 2. Visualizações:
--  - 📊 Cria um histograma para visualizar a distribuição das classes;
--  - 🎨 Gera um gráfico de dispersão para mostrar a distribuição dos dados por classes no espaço de atributos.
+  - 📊 Cria um histograma para visualizar a distribuição das classes;
+  - 🎨 Gera um gráfico de dispersão para mostrar a distribuição dos dados por classes no espaço de atributos.
 - 3. Detecção de Ocorrências:
--  - ✔️ Identifica e imprime a primeira ocorrência de cada classe no dataset;
--  - 📈 Plota um gráfico de linha que mostra a ocorrência das classes ao longo das instâncias, com marcações especiais indicando o surgimento de novas classes.
+  - ✔️ Identifica e imprime a primeira ocorrência de cada classe no dataset;
+  - 📈 Plota um gráfico de linha que mostra a ocorrência das classes ao longo das instâncias, com marcações especiais indicando o surgimento de novas classes.
 
 ---
 
